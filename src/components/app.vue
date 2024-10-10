@@ -102,7 +102,7 @@
 
       // Framework7 Parameters
       const f7params = {
-        name: 'rents-ui', // App name
+        name: 'rent-client', // App name
         theme: 'auto', // Automatic theme detection
 
 

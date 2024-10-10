@@ -3,7 +3,7 @@
   "type": [
     "web"
   ],
-  "name": "rents-ui",
+  "name": "rent-client",
   "framework": "vue",
   "template": "tabs",
   "cssPreProcessor": false,

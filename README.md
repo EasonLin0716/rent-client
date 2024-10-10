@@ -1,4 +1,4 @@
-# rents-ui
+# rent-client
 
 ## Framework7 CLI Options
 
@@ -10,7 +10,7 @@ Framework7 app created with following options:
   "type": [
     "web"
   ],
-  "name": "rents-ui",
+  "name": "rent-client",
   "framework": "vue",
   "template": "tabs",
   "cssPreProcessor": false,

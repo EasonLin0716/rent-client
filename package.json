@@ -1,8 +1,8 @@
 {
-  "name": "rents-ui",
+  "name": "rent-client",
   "private": true,
   "version": "1.0.0",
-  "description": "rents-ui",
+  "description": "rent-client",
   "repository": "",
   "license": "UNLICENSED",
   "scripts": {

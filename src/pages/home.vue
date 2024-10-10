@@ -5,11 +5,11 @@
       <f7-nav-left>
         <f7-link icon-ios="f7:menu" icon-md="material:menu" panel-open="left"></f7-link>
       </f7-nav-left>
-      <f7-nav-title sliding>rents-ui</f7-nav-title>
+      <f7-nav-title sliding>rent-client</f7-nav-title>
       <f7-nav-right>
         <f7-link icon-ios="f7:menu" icon-md="material:menu" panel-open="right"></f7-link>
       </f7-nav-right>
-      <f7-nav-title-large>rents-ui</f7-nav-title-large>
+      <f7-nav-title-large>rent-client</f7-nav-title-large>
     </f7-navbar>
 
     <!-- Page content-->
