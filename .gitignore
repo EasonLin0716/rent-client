@@ -8,6 +8,7 @@ scripts/build-config-*.js
 kitchen-sink/vue/dist
 kitchen-sink/react/dist
 kitchen-sink/svelte/dist
+www
 .github-access-token
 packages/*.zip
 packages/*.tar.gz
